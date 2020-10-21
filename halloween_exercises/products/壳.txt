@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Halloween Store</title>
+    <link rel="stylesheet" type="text/css" href="../styles/product_list.css">
+    <link rel="stylesheet" type="text/css" href="../styles/normalize.css">
+</head>
+
+<body>
+    <header>
+        <img src="../images/pumpkin.gif" alt="Pumpkin" width="85">
+        <h2>The Halloween Store</h2>
+        <h3>For the little Goblin in all of us!</h3>
+    </header>
+    
+    <main>
+        <nav id="nav_menu">
+            <ul>
+                <li id="home"><a href="../index.html">Home</a></li>
+                <li><a href="product_list.html">Product List</a></li>
+                <li><a href="" class="#">Personal</a></li>
+                <li class="lastitem"><a href="#">Decoration Ideas</a>
+                    <ul>
+                        <li><a href="#">Outdoor</a></li>
+                        <li><a href="#">indoor</a></li>
+                        <li><a href="#">Table</a></li>
+                        <li><a href="#">Treats</a></li>
+                    </ul>
+                </li>
+                <li><a href=#>Join Email</a></li>
+            </ul>
+        </nav>
+        
+       <aside>
+            <ul>
+                <nav class="navigation">
+                    <li><a href="#">Props</a></li>
+                </nav>
+
+                <nav class="navigation">
+                    <li><a href="#">Costumes</a></li>
+                </nav>
+
+                <nav class="navigation">
+                    <li><a href="#">Special FX</a></li>
+                </nav>
+
+                <nav class="navigation">
+                    <li><a href="#">Masks</a></li>
+                </nav>
+            </ul>
+        </aside>
+        
+        <section>
+            
+            
+        </section>
+        
+        
+        
+        
+    </main>
+    
+    <footer>
+        <p>&copy; 2018 Ben Murach</p>
+    </footer>
+</body>
+</html>
