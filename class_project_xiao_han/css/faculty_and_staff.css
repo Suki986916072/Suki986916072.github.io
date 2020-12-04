@@ -1,0 +1,91 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.w3_agile_team_grid_info h3 {
+    font-size: 1.4em;
+    color: #fff;
+    margin: 2em 0 1em 0;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.w3_agile_team_grid_info p {
+    color: #00acee;
+    margin-bottom: 1em;
+    font-size: 1em;
+    letter-spacing: 4px;
+}
+ul.team_icons_agile  li{
+	display:inline-block;
+	margin-right:1em;
+}
+.w3_agile_team_grid ul li:last-child{
+	margin:0;
+}
+.w3_agile_team_grid_info{
+text-align: center;
+    padding: 4em 2em;
+    background: #000;
+    width: 32%;
+    border: 2px solid #0e0e0e;
+    background: #0e0e0e;
+	    -webkit-transition: 0.5s ease-in;
+    -moz-transition: 0.5s ease-in;
+    -ms-transition: 0.5s ease-in;
+    -o-transition: 0.5s ease-in;
+    transition: 0.5s ease-in;
+}
+.w3_agile_team_grid_info:hover{
+      border: 2px solid #00acee;
+}
+.w3_agile_team_grid_info:nth-child(2) {
+    margin: 0 1%;
+}
+ul.team_icons_agile li a {
+    color: #fff;
+}
+ul.team_icons_agile {
+    border-top:2px solid #252323;
+    padding: 1.5em 0;
+		    -webkit-transition: 0.5s ease-in;
+    -moz-transition: 0.5s ease-in;
+    -ms-transition: 0.5s ease-in;
+    -o-transition: 0.5s ease-in;
+    transition: 0.5s ease-in;
+}
+.w3_agile_team_grid_info:hover ul.team_icons_agile{
+    border-top:2px solid #de0f17;
+}*/

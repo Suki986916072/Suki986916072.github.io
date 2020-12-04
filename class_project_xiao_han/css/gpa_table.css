@@ -1,0 +1,105 @@
+#gpa {
+    background-color: gainsboro;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-bottom: 200px;
+    width: 50em;
+    height: 100%;
+    padding-top: 100px;
+    
+}
+
+#gpa h1 {
+    padding-top: 10px;
+    padding-bottom: 8px;
+}
+
+#name {
+    margin-bottom: 10px;
+    margin-left: 46px;
+}
+
+#hour {
+    margin-top: 10px;
+    margin-left: 62px;
+}
+
+#add {
+    margin-top: 80px;
+    margin-left: 150px;
+    width: 135px;
+    float: left;
+    border-radius: 4px;
+    color: #fff;
+    text-align: center;
+    background: #777777;
+    border:1px;
+    height: 30px;
+}
+
+#Display_GPA {
+    margin-top: 80px;
+    margin-left: 50px;
+    width: 135px;
+    float: left;
+    border-radius: 4px;
+    color: #fff;
+    text-align: center;
+    background: #777777;
+    border:1px;
+    height: 30px;
+}
+
+#Display_Transcript {
+    margin-left: 50px;
+    width: 165px;
+    float: left;
+    margin-top: 52px;
+    border-radius: 4px;
+    color: #fff;
+    text-align: center;
+    background: #777777;
+    border:1px;
+    height: 30px;
+}
+
+#results {
+    text-align: center;
+}
+
+#Transcript {
+    text-align: center;
+    margin-left: 200px;
+}
+
+th, td, tr{
+        border: 1px solid black;
+        padding: .2em 1em .2em .7em;
+        text-align: center;
+        vertical-align: middle;
+		}
+#Transcript h2 {
+}
+
+#add .button {
+    padding: 4px 6px;
+    border: none;
+    text-shadow: none;
+    font-weight: 300 !important;
+    border-radius: 4px;
+    display: inline;
+    font-size: 75%;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    font-family: 'Roboto', sans-serif;
+}
+
+#grade {
+    margin-left: 20px;
+}
